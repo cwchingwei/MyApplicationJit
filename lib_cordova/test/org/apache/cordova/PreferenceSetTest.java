@@ -16,11 +16,11 @@
        specific language governing permissions and limitations
        under the License.
 */
-import org.junit.*;
-import static org.junit.Assert.*;
-
 import org.apache.cordova.PreferenceNode;
 import org.apache.cordova.PreferenceSet;
+import org.junit.*;
+
+import static org.junit.Assert.*;
 
 public class PreferenceSetTest {
     private PreferenceSet preferences;
