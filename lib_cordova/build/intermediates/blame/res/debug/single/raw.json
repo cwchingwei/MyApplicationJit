@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\xwalk.pak",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\xwalk.pak"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\icudtl.dat",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\launch_screen_api.js",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\wifidirect_api.js",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\wifidirect_api.js"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\xwalk_100_percent.pak",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\xwalk_100_percent.pak"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\raw\\empty.wav",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\raw\\empty.wav"
+    }
+]

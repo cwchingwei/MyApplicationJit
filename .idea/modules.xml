@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplicationJit.iml" filepath="$PROJECT_DIR$/MyApplicationJit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_cordova/lib_cordova.iml" filepath="$PROJECT_DIR$/lib_cordova/lib_cordova.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_xwalk_23/lib_xwalk_23.iml" filepath="$PROJECT_DIR$/lib_xwalk_23/lib_xwalk_23.iml" />
     </modules>
   </component>

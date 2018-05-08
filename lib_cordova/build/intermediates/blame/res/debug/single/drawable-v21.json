@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\button_compat.xml",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\button_compat.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_cordova\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\button_borderless_compat.xml",
+        "source": "C:\\Users\\PC-0320\\Downloads\\MyApplicationJit\\lib_xwalk_23\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\button_borderless_compat.xml"
+    }
+]
