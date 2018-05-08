@@ -46,5 +46,4 @@ android {
 
 
 dependencies {
-    compile project(':lib_xwalk_23')
 }
